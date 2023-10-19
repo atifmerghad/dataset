@@ -1,6 +1,11 @@
 {
-    "access_token": "eyJ0eXAiOiJKV1QiLCxzNlNEZXY2WSHR0cHM6Ly9hcGkuY2NoYDJkNjktYWJkYS01YTc4LTlhMzEtNTFkZTc1ZmVlY2NjIiwic2NvcGUiOlsiQ0NIQXhjZXNzX2RhdGFfd3JpdGVhY2Nlc3MiLCJvZmZsaW5lX2FjY2VzcyJdLCJzdWIiOiIxNjAyNTNcXHNhX2RldiIsImF1dGhfdGltZSI6MTY5MjI2NzI2MywiaWRwIjoiQXhjZXNzIiwiYSI6IjE2MDI1MyIsIm0iOiJDY2hJbnRlcm5ldCIsImFkIjoiRmFsc2UiLCJrIjoiYTAyZGIxYTctNDViYS00OTE2LTk0YWYtMjNmOTA3OGVmNGU1IiwicyI6IjI2MDQyNzEyLTU0NTAtNDZiNS1iYmUzLWFlOWIxOTdjZjQ5ZSIsImYiOiI5ZDhjMzgyYS1iMDBlLTQ5ZGYtOTBjZS05YjYzNjVkZjM3YjEiLCJ1IjoiMDk5OTI3MzQtOTZiNC00Yzg5LTk3OGYtODZkMDQ1MDk0NTIxIiwiaSI6IlQiLCJsIjoic2FfZGV2IiwiYW1yIjpbImV4dGVybmFsIl19.uqsfCgFUsVQFANvcYy4dTPIlH1QT47ja2mikI96d600-7o8UD8YTlQRPhW9nyztyDC0n52HCwCCuDwoNSprZt83PquSY7yiMUwstkJO_Z-HNfhD_jcjSQdPaU97CgbS7WcLrMQjPqy4wWSFwbUYXt8vO70lpLDtZ4hGEeFk7mUqUL974unRaC1SKoAucgqew7zQCdM73YSWlk7I5ZGfQiojILZMSWFA7WOJKq0U_JnbsphbJKS-IBAvYRwKWbDAa8X3n89CA5hPd4Me4c-_OuF1Zrq4hSgYWFaiQmVP0Vnpif2pHpEMVTp4fdmxDs1Q7NrMZzjMJCt5BXZcAh50TjQ",
-    "expires_in": 7200,
-    "token_type": "Bearer",
-    "refresh_token": "9f810028d41b6d7a4750938a5c9d8b355c2MgMjI6MDM6MjQ="
+    "success": [],
+    "failed": [
+        522874,522875,522876
+    ],
+    "errors": {
+        "522874": "Send Invoice Email Notifications failed: Email attachment does not exist in S3 for invoice with id = 522874"
+        "522875": "Send Invoice Email Notifications failed: Email attachment does not exist in S3 for invoice with id = 522875",
+        "522876": "Send Invoice Email Notifications failed: Email attachment does not exist in S3 for invoice with id = 522876"
+    }
 }
