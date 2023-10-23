@@ -1,9 +1,9 @@
 {
-    "success": [],
     "failed": [
         522874,
         522875,
-        522876
+        522876,
+        522877
     ],
     "errors": {
         "522874": "Send Invoice Email Notifications failed: Email attachment does not exist in S3 for invoice with id = 522874",
