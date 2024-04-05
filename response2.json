@@ -1,5 +1,10 @@
- {
-            "name": "000-firm-cch-axcess-oip-integration-step1",
+[
+    {
+        "flowId": 9372,
+        "name": "000-test",
+        "icon": "/img/di/core/flows/nested.png",
+        "executions": {
+            "name": "test",
             "flowId": 9372,
             "auditId": 2958366,
             "eventId": null,
@@ -13,4 +18,7 @@
             "ended": 1712285721130,
             "records": 0,
             "exception": ""
-}
+        }
+    }
+
+]
