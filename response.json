@@ -1,13 +1,16 @@
-{
-    "failed": [
-        522874,
-        522875,
-        522876,
-        522877
-    ],
-    "errors": {
-        "522874": "Send Invoice Email Notifications failed: Email attachment does not exist in S3 for invoice with id = 522874",
-        "522875": "Send Invoice Email Notifications failed: Email attachment does not exist in S3 for invoice with id = 522875",
-        "522876": "Send Invoice Email Notifications failed: Email attachment does not exist in S3 for invoice with id = 522876"
-    }
+ {
+            "name": "000-firm-cch-axcess-oip-integration-step1",
+            "flowId": 9372,
+            "auditId": 2958366,
+            "eventId": null,
+            "eventName": null,
+            "agentId": null,
+            "agentName": null,
+            "description": null,
+            "status": "success",
+            "user": "atif.merghad",
+            "started": 1712285702089,
+            "ended": 1712285721130,
+            "records": 0,
+            "exception": ""
 }
